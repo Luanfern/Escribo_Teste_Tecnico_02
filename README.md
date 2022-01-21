@@ -27,5 +27,9 @@ samples, guidance on mobile development, and a full API reference.
     <p>5. Lembre-se de adicionar a permissão ['<uses-permission android:name="android.permission.INTERNET" />'] no arquivo AndroidManifest.xml que se encontra dentro de android/app/src/main</p>
 
 - Estas últimas etapas são muito importântes para o funcionamento das animações pela package ['Lottie'] = https://pub.dev/packages/lottie
+    
+    <p>6. Para gerar o apk, rode o comando no CMD: flutter build apk</p>
+    <p>7. O apk se encontrará na pasta snakesandladders_escribo\build\app\outputs\flutter-apk\ ['APK aqui']</p>
+
 
 # Agradeço pela Oportunidade.

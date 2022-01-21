@@ -14,8 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-"# Escribo_Teste_Tecnico_02" 
+"# Escribo_Teste_Tecnico_02"
+# Video - Game funcionando
 
+- https://youtu.be/RLWMZQOS0KY
 # Minhas Instruções
 
 - Para testar de forma rápida e prática, baixe e instale o apk enviado por E-mail para ver o game rodando.

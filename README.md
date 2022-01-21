@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 # Minhas Instruções
 
 - Para testar de forma rápida e prática, baixe e instale o apk enviado por E-mail para ver o game rodando.
+- Link para baixar o APK: https://luanfern.mxw.com.br/Escribo_SnakesandLadders.zip
 - O código completo do game está neste Repositório.
     <p>1 Abra o seu CMD</p>
     <p>2. Crie um projeto flutter com: flutter create ['nome do projeto']</p>

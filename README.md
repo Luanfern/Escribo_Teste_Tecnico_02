@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Para testar de forma rápida e prática, baixe e instale o apk enviado por E-mail para ver o game rodando.
 - O código completo do game está neste Repositório.
-    1 Abra o seu CMD
-    2. Crie um projeto flutter com: flutter create ['nome do projeto']
-    3. passe as informações deste repositório para o seu projeto
-    4. Os principais arquivos a serem passados são a pasta "lib", os assets e as informações adicionais do pubspec.yaml
+    <p>1 Abra o seu CMD</p>
+    <p>2. Crie um projeto flutter com: flutter create ['nome do projeto']</p>
+    <p>3. passe as informações deste repositório para o seu projeto</p>
+    <p>4. Os principais arquivos a serem passados são a pasta "lib", os assets e as informações adicionais do pubspec.yaml</p>

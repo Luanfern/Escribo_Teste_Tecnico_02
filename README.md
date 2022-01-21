@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
     <p>2. Crie um projeto flutter com: flutter create ['nome do projeto']</p>
     <p>3. passe as informações deste repositório para o seu projeto</p>
     <p>4. Os principais arquivos a serem passados são a pasta "lib", os assets e as informações adicionais do pubspec.yaml</p>
-    <p>5. Lembre-se de adicionar a permissão ['<uses-permission android:name="android.permission.INTERNET" />'] no arquivo AndroidManifest.xml que se encontra dentro de android/app/src/main</p>
+    <p>5. Lembre-se de adicionar a permissão <uses-permission android:name="android.permission.INTERNET" /> no arquivo AndroidManifest.xml que se encontra dentro de android/app/src/main</p>
 
 - Estas últimas etapas são muito importântes para o funcionamento das animações pela package ['Lottie'] = https://pub.dev/packages/lottie
     
